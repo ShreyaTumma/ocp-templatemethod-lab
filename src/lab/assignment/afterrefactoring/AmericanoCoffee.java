@@ -1,4 +1,4 @@
-package lab.assignment.beforerefactoring;
+package lab.assignment.afterrefactoring;
 
 public class AmericanoCoffee extends CoffeeMakerTemplate{
 
